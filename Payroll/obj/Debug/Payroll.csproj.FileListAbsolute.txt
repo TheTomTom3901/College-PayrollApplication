@@ -1,0 +1,93 @@
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\bin\Debug\Payroll.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\bin\Debug\Payroll.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\bin\Debug\Payroll.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\bin\Debug\Payroll.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\bin\Debug\Payroll.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\bin\Debug\Payroll.pdb
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.Login.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\VisualC#\Payroll\Payroll\obj\Debug\Payroll.Login.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\bin\Debug\Payroll.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\bin\Debug\Payroll.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.Login.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\bin\Debug\Payroll.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\bin\Debug\Payroll.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.Login.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\bin\Debug\Payroll.exe.manifest
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\bin\Debug\Payroll.application
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.exe.manifest
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\Payroll\Payroll\obj\Debug\Payroll.application
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.pdb
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.exe.manifest
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.application
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.pdb
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.Login.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.exe.manifest
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.application
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.exe.manifest
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.application
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.Login.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.exe.manifest
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.application
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Uploaded\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Uploaded\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Uploaded\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.pdb
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Uploaded\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Uploaded\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Uploaded\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\C#\Payroll\Payroll\bin\Debug\Payroll.exe.config
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\C#\Payroll\Payroll\obj\Debug\Payroll.pdb
